@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there 👋, I'm Mamadou BAH</h1>
 <p align="center"> 
 I am a computer science student currently pursuing my L2 degree at Claude Bernard Lyon 1 University. My passion lies in the realms of cybersecurity and full-stack web development, with expertise in languages such as PHP, C/C++, JavaScript, and SQL.
@@ -13,11 +12,11 @@ My goal is to contribute to the world of technology by developing cutting-edge a
 🔭 I’m currently working on web development projects<br>
 🌱 I’m currently learning about cybersecurity<br>
 
-- 👨‍💻 You can find more about me and my work on [![My Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://)
+- 👨‍💻 You can find more about me and my work on [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com/) [![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#0a8a16)](https://your-blog-link.com/)
 
-- 💬 Ask me about ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C/C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- 💬 Ask me about ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C/C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
 
-- 📫 How to reach me: **mamadoualioubah191@gmail.com**
+- 📫 How to reach me: **your-email@example.com**
 ### Profile views:
 ![](https://komarev.com/ghpvc/?username=your-username&label=PROFILE+VIEWS)
 

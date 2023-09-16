@@ -1,4 +1,4 @@
-<img align="center" src=> 
+
 <h1 align="center">Hi there 👋, I'm Mamadou BAH</h1>
 <p align="center"> 
 I am a computer science student currently pursuing my L2 degree at Claude Bernard Lyon 1 University. My passion lies in the realms of cybersecurity and full-stack web development, with expertise in languages such as PHP, C/C++, JavaScript, and SQL.

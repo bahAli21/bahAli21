@@ -10,7 +10,7 @@ I'm on a continuous learning journey, exploring the ever-evolving world of techn
 My goal is to contribute to the world of technology by developing cutting-edge applications and ensuring digital security. Let's connect and collaborate to make the digital world a safer and more exciting place. </p>
 
 ### 💫 About Me:
-🔭 I’m currently working on web development projects<br>
+🔭 I'm currently working on the Hunter Assassin projec<br>
 🌱 I’m currently learning about cybersecurity<br>
 
 - 💬 Ask me about ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C/C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)

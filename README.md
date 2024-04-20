@@ -1,19 +1,21 @@
 
-<h1 align="center">Hi there 👋, I'm Mamadou BAH</h1>
+<h1 align="center">Salut à tous 👋! Je suis Mamadou BAH</h1>
 <p align="center"> 
-I am a computer science student currently pursuing my L2 degree at Claude Bernard Lyon 1 University. My passion lies in the realms of cybersecurity and full-stack web development, with expertise in languages such as PHP, C/C++, JavaScript, and SQL.
+Étudiant en informatique en L2 à l'Université Claude Bernard Lyon 1, je suis passionné par le développement logiciel, en particulier par l'apprentissage actuel du C# et du framework .NET. Je m'intéresse également au développement de jeux vidéo avec Unreal Engine 5 et à la cybersécurité.
 
-I thrive on creating secure and innovative web applications using PHP and JavaScript, following the MVC architecture. My journey as a developer has been enriched with diverse experiences, from coding in PHP Object-Oriented Programming to mastering C/C++ and JavaScript for web development.
+Mon ambition est de contribuer à l'évolution de la technologie en créant des solutions innovantes et sécurisées. Actuellement, je me concentre sur l'acquisition de compétences en développement logiciel, tout en explorant les possibilités offertes par l'univers des jeux vidéo et de la cybersécurité.
 
-I'm on a continuous learning journey, exploring the ever-evolving world of technology. I am fascinated by the interconnected world of networks and cybersecurity, always looking to enhance my skills and knowledge.
+N'hésitez pas à me poser des questions sur C#.NET, C++, MySQL et JavaScript. Je suis toujours engagé dans des projets de développement logiciel et ouvert à de nouvelles opportunités passionnantes dans le domaine de la technologie.
 
-My goal is to contribute to the world of technology by developing cutting-edge applications and ensuring digital security. Let's connect and collaborate to make the digital world a safer and more exciting place. </p>
+Connectons-nous pour échanger des idées et collaborer à la construction d'un avenir technologique brillant et sécurisé!</p>
 
-### 💫 About Me:
-🔭 I'm currently working on the Hunter Assassin projec<br>
-🌱 I’m currently learning about cybersecurity<br>
+### 💡 À propos de moi :
 
-- 💬 Ask me about ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C/C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+💻 Je travaille sur des projets de développement logiciel avec WPF C#.NET Actuellement
+📚 En plein apprentissage du développement logiciel<br>
+
+- 💬 Posez-moi des questions sur ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 - 📫 How to reach me: **mamadoualioubah191@gmail.com**
 ### Profile views:

@@ -24,7 +24,11 @@ Connectons-nous pour échanger des idées et collaborer à la construction d'un 
 - 💬 Posez-moi des questions sur ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.NET Core](https://img.shields.io/badge/.NET_Core-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-- 📫 Comment me contacter : **mamadoualioubah191@gmail.com**
+- 📫 Comment me contacter :
+  - Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://bahali21.github.io/BAHMamadou/)
+  - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamadou-bah-047979219/)
+  - Twitter: [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bahAli21)
+
 ### Vues du profil :
 ![](https://komarev.com/ghpvc/?username=bahAli21&label=PROFILE+VIEWS)
 

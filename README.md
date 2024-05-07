@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profil de Mamadou BAH</title>
+</head>
+<body>
 
 <h1 align="center">Salut à tous 👋! Je suis Mamadou BAH</h1>
 <p align="center"> 
@@ -5,7 +13,7 @@
 
 Mon ambition est de contribuer à l'évolution de la technologie en créant des solutions innovantes et sécurisées. Actuellement, je me concentre sur l'acquisition de compétences en développement logiciel, tout en explorant les possibilités offertes par l'univers des jeux vidéo et de la cybersécurité.
 
-N'hésitez pas à me poser des questions sur C#.NET, C++, MySQL et JavaScript. Je suis toujours engagé dans des projets de développement logiciel et ouvert à de nouvelles opportunités passionnantes dans le domaine de la technologie.
+N'hésitez pas à me poser des questions sur C#.NET, .NET Core, .NET MAUI, C++, MySQL et JavaScript. Je suis toujours engagé dans des projets de développement logiciel et ouvert à de nouvelles opportunités passionnantes dans le domaine de la technologie.
 
 Connectons-nous pour échanger des idées et collaborer à la construction d'un avenir technologique brillant et sécurisé!</p>
 
@@ -14,11 +22,11 @@ Connectons-nous pour échanger des idées et collaborer à la construction d'un 
 💻 Je travaille sur des projets de développement logiciel avec WPF C#.NET Actuellement<br>
 📚 En plein apprentissage du développement logiciel sur UDEMY<br>
 
-- 💬 Posez-moi des questions sur ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- 💬 Posez-moi des questions sur ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.NET Core](https://img.shields.io/badge/.NET_Core-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 
 
-- 📫 How to reach me: **mamadoualioubah191@gmail.com**
-### Profile views:
+- 📫 Comment me contacter : **mamadoualioubah191@gmail.com**
+### Vues du profil :
 ![](https://komarev.com/ghpvc/?username=bahAli21&label=PROFILE+VIEWS)
 
 <!--
@@ -35,7 +43,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📊 GitHub Stats:
+### 📊 Statistiques GitHub :
 <a href="https://github.com/bahAli21">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bahAli21&show_icons=true&locale=en&count_private=true&theme=dark" alt="bahAli21" />
 </a>
@@ -45,3 +53,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/bahAli21">
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=bahAli21&theme=dark" alt="bahAli21" />
 </a>
+
+</body>
+</html>

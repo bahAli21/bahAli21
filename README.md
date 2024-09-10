@@ -6,9 +6,9 @@
 </head>
 <body>
 
-<h1 align="center">Salut à tous 👋! Je suis Mamadou BAH</h1>
+<h1 align="center">Salut à tous 👋! Je suis BAH Mamadou</h1>
 <p align="center"> 
-Je suis actuellement étudiant à l'école 42, où je débute le tronc commun à partir de novembre 2024. Passionné par le développement logiciel et la cybersécurité, mon objectif est de devenir freelance dans le domaine de l'informatique tout en contribuant activement à l'évolution de la technologie.
+Je suis actuellement étudiant à l'école 42, où je débute le tronc commun à partir de novembre 2024. Passionné par le développement et la cybersécurité, mon objectif est de devenir freelance dans le domaine de l'informatique tout en contribuant activement à l'évolution de la technologie.
 
 Actuellement, je me concentre sur l'apprentissage des langages C et C++, ainsi que sur le développement web avec TypeScript, Angular et PHP. Je travaille également sur le projet Libft, qui est une excellente opportunité pour renforcer mes compétences en C.
 
@@ -28,8 +28,6 @@ Connectons-nous pour échanger des idées et construire ensemble un avenir techn
 - 📫 Comment me contacter :
   - Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://bahali21.github.io/BAHMamadou/)
   - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamadou-bah-047979219/)
-  - Twitter: [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bahAli21)
-
 ### Vues du profil :
 ![](https://komarev.com/ghpvc/?username=bahAli21&label=PROFILE+VIEWS)
 

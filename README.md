@@ -3,26 +3,28 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profil de Mamadou BAH</title>
 </head>
 <body>
 
 <h1 align="center">Salut à tous 👋! Je suis Mamadou BAH</h1>
 <p align="center"> 
-Étudiant en informatique en L2 à l'Université Claude Bernard Lyon 1, je suis passionné par le développement logiciel, en particulier par l'apprentissage actuel du C# et du framework .NET. Je m'intéresse également au développement de jeux vidéo avec Unreal Engine 5 et à la cybersécurité.
+Je suis actuellement étudiant à l'école 42, où je débute le tronc commun à partir de novembre 2024. Passionné par le développement logiciel et la cybersécurité, mon objectif est de devenir freelance dans le domaine de l'informatique tout en contribuant activement à l'évolution de la technologie.
 
-Mon ambition est de contribuer à l'évolution de la technologie en créant des solutions innovantes et sécurisées. Actuellement, je me concentre sur l'acquisition de compétences en développement logiciel, tout en explorant les possibilités offertes par l'univers des jeux vidéo et de la cybersécurité.
+Actuellement, je me concentre sur l'apprentissage des langages C et C++, ainsi que sur le développement web avec TypeScript, Angular et PHP. Je travaille également sur le projet Libft, qui est une excellente opportunité pour renforcer mes compétences en C.
 
-N'hésitez pas à me poser des questions sur C#.NET, .NET Core, .NET MAUI, PHP, C++, MySQL et JavaScript. Je suis toujours engagé dans des projets de développement logiciel et ouvert à de nouvelles opportunités passionnantes dans le domaine de la technologie.
+Si vous avez des questions sur ces technologies ou si vous souhaitez discuter de projets de développement web, n'hésitez pas à me contacter ! Je suis toujours ouvert à de nouvelles collaborations et opportunités dans le domaine de la technologie et de la cybersécurité.
 
-Connectons-nous pour échanger des idées et collaborer à la construction d'un avenir technologique brillant et sécurisé!</p>
+Connectons-nous pour échanger des idées et construire ensemble un avenir technologique passionnant et sécurisé !</p>
 
 ### 💡 À propos de moi :
 
-💻 Je travaille sur des projets de développement logiciel avec WPF C#.NET Actuellement<br>
-📚 En plein apprentissage du développement logiciel sur UDEMY<br>
+💻 Actuellement en tronc commun à l'école 42 depuis novembre 2024<br>
+🔍 Passionné par le développement en C, C++, TypeScript, Angular et PHP<br>
+🚀 Travaillant sur le projet Libft en C<br>
+🔐 Intéressé par la cybersécurité et l'évolution technologique<br>
 
-- 💬 Posez-moi des questions sur ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.NET Core](https://img.shields.io/badge/.NET_Core-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
+- 💬 Posez-moi des questions sur ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 - 📫 Comment me contacter :
   - Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://bahali21.github.io/BAHMamadou/)
